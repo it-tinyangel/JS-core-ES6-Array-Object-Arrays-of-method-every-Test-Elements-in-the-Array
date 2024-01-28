@@ -7,4 +7,8 @@
 
 **Task description:**
 
-The given array of objects arr. Check if all country keys have the value 'Ukraine' using the every method. Output the result to the console.
+- The given array of objects arr.
+
+- Check if all country keys have the value 'Ukraine' using the every method.
+
+- Output the result to the console.
