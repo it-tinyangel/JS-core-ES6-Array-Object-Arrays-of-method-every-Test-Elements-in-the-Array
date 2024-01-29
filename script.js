@@ -4,6 +4,6 @@ let arr = [
 	{ name: 'Miguel', country: 'Cuba' }
 ];
 
-const allInUkraine = arr.every(({ country }) => country === 'Ukraine');
+const allUkraineCheck = arr.every(({ country }) => country === 'Ukraine');
 
-console.log('Do all country keys have the value "Ukraine"?', allInUkraine);
+console.log('Do all country keys have the value "Ukraine"?', allUkraineCheck);
